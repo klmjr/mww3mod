@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mww",
+  "name": "greenecojr's Minecraft World War Mod",
+  "description": "More to come soon!",
+  "version": "VERSION",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KJ Mason:greenecojr"],
+  "credits": "Suppergerrie2's tutorial and the internet!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
